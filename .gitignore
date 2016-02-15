@@ -1,0 +1,7 @@
+.RData
+.Rhistory
+data/
+hackpvta.Rproj
+.DS_Store
+.RDataTmp
+.Rproj.user/
